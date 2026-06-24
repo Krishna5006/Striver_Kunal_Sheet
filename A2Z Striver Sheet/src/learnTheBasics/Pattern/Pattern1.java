@@ -1,4 +1,4 @@
-package Pattern;
+package learnTheBasics.first_java.Pattern;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

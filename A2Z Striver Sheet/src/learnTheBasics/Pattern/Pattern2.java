@@ -1,4 +1,4 @@
-package Pattern;
+package learnTheBasics.first_java.Pattern;
 
 public class Pattern2 {
     public static void main(String[] args) {
