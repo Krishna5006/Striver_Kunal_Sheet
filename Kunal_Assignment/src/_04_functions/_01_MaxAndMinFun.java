@@ -13,7 +13,7 @@ public class _01_MaxAndMinFun {
         System.out.println(maxFun(a,b,c));
         System.out.print("Minimum number is :");
         System.out.println(minFun(a,b,c));
-
+        sc.close();
     }
 
     //alternate approach you can use is implementing max and min inside these functions
